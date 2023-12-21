@@ -1,0 +1,5 @@
+venv
+.env
+__pycache__
+.idea
+hugo_theme_params.yaml
